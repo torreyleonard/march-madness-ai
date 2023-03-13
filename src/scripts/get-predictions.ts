@@ -1,3 +1,4 @@
+require('dotenv').config()
 import { promises as fs } from "fs";
 import * as path from "path";
 import { predictGameResult } from '../services/openai/openai.helpers';
