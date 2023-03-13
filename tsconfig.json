@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "types": ["jest", "node"],
+    "target": "es2018",
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": false,
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "baseUrl": "src",
+    "paths": {
+      "*": ["node_modules/"],
+      "typings/*": ["src/typings/*"]
+    },
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.js",
+    "handler.js",
+    "lang/*.json",
+    "src/static/*.json",
+    "test/fake-statement-data.ts"
+  ],
+  "ts-node": {
+    "files": true
+  },
+  "lib": ["es2021", "esnext.asynciterable"]
+}

@@ -1,0 +1,81 @@
+--------[East: Round of 64]--------
+[East:64] 1 Purdue vs 16 TXSO/FDU (94 - 74)
+[East:64] 8 Memphis vs 9 Florida Atlantic University (99 - 78)
+[East:64] 5 Duke vs 12 Oral Roberts (68 - 57)
+[East:64] 4 Tennessee vs 13 Louisiana (79 - 72)
+[East:64] 6 Kentucky vs 11 Providence (81 - 74)
+[East:64] 3 Kansas State vs 14 Montana State (78 - 68)
+[East:64] 10 USC vs 7 Michigan State (74 - 72)
+[East:64] 2 Marquette vs 15 Vermont (67 - 48)
+--------[Midwest: Round of 64]--------
+[Midwest:64] 1 Houston vs 16 North Kentucky (80 - 62)
+[Midwest:64] 8 Iowa State vs 9 Auburn (87 - 79)
+[Midwest:64] 12 Drake vs 5 University of Miami (60 - 56)
+[Midwest:64] 13 Kent State vs 4 Indiana (73 - 70)
+[Midwest:64] 6 Iowa State vs 11 MSST/PITT (87 - 86)
+[Midwest:64] 3 Xavier vs 14 Kennesaw State (83 - 66)
+[Midwest:64] 10 Penn State vs 7 Texas A&M (71 - 59)
+[Midwest:64] 2 Texas A&M vs 15 Colgate (55 - 39)
+--------[West: Round of 64]--------
+[West:64] 1 Kansas vs 16 Howard (92 - 72)
+[West:64] 8 Arkansas vs 9 Illinois (58 - 56)
+[West:64] 5 Saint Mary's vs 12 VCU (83 - 74)
+[West:64] 4 UConn vs 13 Iona (90 - 83)
+[West:64] 6 TCU vs 11 ASU/NEV (85 - 71)
+[West:64] 3 Gonzaga vs 14 Grand Canyon (87 - 66)
+[West:64] 10 Boise State vs 7 Northwestern (73 - 65)
+[West:64] 2 UCLA vs 15 UNC Asheville (82 - 56)
+--------[South: Round of 64]--------
+[South:64] 1 Alabama vs 16 AMCC/SMO (77 - 59)
+[South:64] 9 West Virginia vs 8 Maryland (79 - 65)
+[South:64] 12 College of Charleston vs 5 San Diego State (65 - 56)
+[South:64] 13 Furman vs 4 Virginia Tech (57 - 48)
+[South:64] 11 NC State vs 6 Creighton (76 - 74)
+[South:64] 3 Baylor vs 14 UCSB (74 - 72)
+[South:64] 7 Missouri vs 10 Utah State (69 - 68)
+[South:64] 2 Arizona vs 15 Princeton (60 - 43)
+--------[East: Round of 32]--------
+[East:32] 1 Purdue vs 8 Memphis (92 - 66)
+[East:32] 4 Tennessee vs 5 Duke (101 - 84)
+[East:32] 6 Kentucky vs 3 Kansas State (72 - 69)
+[East:32] 2 Marquette vs 10 USC (82 - 74)
+--------[Midwest: Round of 32]--------
+[Midwest:32] 8 Iowa State vs 1 Houston (88 - 74)
+[Midwest:32] 13 Kent State vs 12 Drake (80 - 73)
+[Midwest:32] 3 Xavier vs 6 Iowa State (87 - 83)
+[Midwest:32] 2 Texas A&M vs 10 Penn State (79 - 68)
+--------[West: Round of 32]--------
+[West:32] 1 Kansas vs 8 Arkansas (100 - 87)
+[West:32] 4 UConn vs 5 Saint Mary's (90 - 83)
+[West:32] 3 Gonzaga vs 6 TCU (85 - 69)
+[West:32] 10 Boise State vs 2 UCLA (79 - 67)
+--------[South: Round of 32]--------
+[South:32] 9 West Virginia vs 1 Alabama (73 - 73)
+[South:32] 12 College of Charleston vs 13 Furman (72 - 54)
+[South:32] 11 NC State vs 3 Baylor (76 - 74)
+[South:32] 2 Arizona vs 7 Missouri (70 - 69)
+--------[East: Round of 16]--------
+[East:16] 4 Tennessee vs 1 Purdue (101 - 92)
+[East:16] 6 Kentucky vs 2 Marquette (73 - 59)
+--------[Midwest: Round of 16]--------
+[Midwest:16] 8 Iowa State vs 13 Kent State (60 - 59)
+[Midwest:16] 2 Texas A&M vs 3 Xavier (81 - 70)
+--------[West: Round of 16]--------
+[West:16] 1 Kansas vs 4 UConn (95 - 86)
+[West:16] 10 Boise State vs 3 Gonzaga (74 - 62)
+--------[South: Round of 16]--------
+[South:16] 12 College of Charleston vs 9 West Virginia (75 - 71)
+[South:16] 11 NC State vs 2 Arizona (75 - 62)
+--------[East: Round of 8]--------
+[East:8] 6 Kentucky vs 4 Tennessee (78 - 73)
+--------[Midwest: Round of 8]--------
+[Midwest:8] 8 Iowa State vs 2 Texas A&M (79 - 66)
+--------[West: Round of 8]--------
+[West:8] 1 Kansas vs 10 Boise State (70 - 63)
+--------[South: Round of 8]--------
+[South:8] 12 College of Charleston vs 11 NC State (77 - 64)
+--------[Final Four]--------
+[Final Four] 6 Kentucky vs 12 College of Charleston (75 - 74)
+[Final Four] 8 Iowa State vs 1 Kansas (82 - 70)
+--------[Championship]--------
+[Championship] 6 Kentucky vs 8 Iowa State (84 - 79)

@@ -1,0 +1,933 @@
+{
+	"year": 2023,
+	"regions": [
+		[
+			[
+				[
+					{
+						"seed": 1,
+						"team": "Alabama",
+						"score": 54,
+						"round_of": 64
+					},
+					{
+						"seed": 16,
+						"team": "AMCC/SMO",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 8,
+						"team": "Maryland",
+						"score": 59,
+						"round_of": 64
+					},
+					{
+						"seed": 9,
+						"team": "West Virginia",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 5,
+						"team": "San Diego State",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 12,
+						"team": "College of Charleston",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 4,
+						"team": "Virginia Tech",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 13,
+						"team": "Furman",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 6,
+						"team": "Creighton",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 11,
+						"team": "NC State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 3,
+						"team": "Baylor",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 14,
+						"team": "UCSB",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 7,
+						"team": "Missouri",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 10,
+						"team": "Utah State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 2,
+						"team": "Arizona",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 15,
+						"team": "Princeton",
+						"score": null,
+						"round_of": 64
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					}
+				]
+			]
+		],
+		[
+			[
+				[
+					{
+						"seed": 1,
+						"team": "Houston",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 16,
+						"team": "North Kentucky",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 8,
+						"team": "Iowa State",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 9,
+						"team": "Auburn",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 5,
+						"team": "University of Miami",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 12,
+						"team": "Drake",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 4,
+						"team": "Indiana",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 13,
+						"team": "Kent State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 6,
+						"team": "Iowa State",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 11,
+						"team": "MSST/PITT",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 3,
+						"team": "Xavier",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 14,
+						"team": "Kennesaw State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 7,
+						"team": "Texas A&M",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 10,
+						"team": "Penn State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 2,
+						"team": "Texas A&M",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 15,
+						"team": "Colgate",
+						"score": null,
+						"round_of": 64
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					}
+				]
+			]
+		],
+		[
+			[
+				[
+					{
+						"seed": 1,
+						"team": "Purdue",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 16,
+						"team": "TXSO/FDU",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 8,
+						"team": "Memphis",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 9,
+						"team": "Florida Atlantic University",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 5,
+						"team": "Duke",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 12,
+						"team": "Oral Roberts",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 4,
+						"team": "Tennessee",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 13,
+						"team": "Louisiana",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 6,
+						"team": "Kentucky",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 11,
+						"team": "Providence",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 3,
+						"team": "Kansas State",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 14,
+						"team": "Montana State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 7,
+						"team": "Michigan State",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 10,
+						"team": "USC",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 2,
+						"team": "Marquette",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 15,
+						"team": "Vermont",
+						"score": null,
+						"round_of": 64
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					}
+				]
+			]
+		],
+		[
+			[
+				[
+					{
+						"seed": 1,
+						"team": "Kansas",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 16,
+						"team": "Howard",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 8,
+						"team": "Arkansas",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 9,
+						"team": "Illinois",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 5,
+						"team": "Saint Mary's",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 12,
+						"team": "VCU",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 4,
+						"team": "UConn",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 13,
+						"team": "Iona",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 6,
+						"team": "TCU",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 11,
+						"team": "ASU/NEV",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 3,
+						"team": "Gonzaga",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 14,
+						"team": "Grand Canyon",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 7,
+						"team": "Northwestern",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 10,
+						"team": "Boise State",
+						"score": null,
+						"round_of": 64
+					}
+				],
+				[
+					{
+						"seed": 2,
+						"team": "UCLA",
+						"score": null,
+						"round_of": 64
+					},
+					{
+						"seed": 15,
+						"team": "UNC Asheville",
+						"score": null,
+						"round_of": 64
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": 11,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 32
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				],
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 16
+					}
+				]
+			],
+			[
+				[
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					},
+					{
+						"seed": null,
+						"team": null,
+						"score": null,
+						"round_of": 8
+					}
+				]
+			]
+		]
+	],
+	"finalfour": [
+		[
+			[
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 4
+				},
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 4
+				}
+			],
+			[
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 4
+				},
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 4
+				}
+			]
+		],
+		[
+			[
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 2
+				},
+				{
+					"seed": null,
+					"team": null,
+					"score": null,
+					"round_of": 2
+				}
+			]
+		]
+	]
+}
